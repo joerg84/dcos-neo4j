@@ -1,0 +1,4 @@
+PACKAGE_NAME = 'neo4j'
+SERVICE_NAME = 'neo4j'
+DEFAULT_TASK_COUNT = 1
+
